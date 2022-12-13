@@ -1,3 +1,4 @@
+
 with open('input.txt') as f:
   data = [
     sum([int(s) for s in idx.split('\n')])
